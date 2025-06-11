@@ -22,9 +22,9 @@ Thumbs.db
 # Logs
 *.log
 
-# Database (optional)
-*.db
-*.sqlite3
+# # Database (optional)
+# *.db
+# *.sqlite3
 
 # Git
 .git/
@@ -40,3 +40,5 @@ htmlcov/
 coverage.*
 .cache/
 .pytest_cache/
+
+.gitignore
