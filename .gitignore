@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+include
+Lib
+Scripts
+
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database (optional)
+*.db
+*.sqlite3
+
+# Git
+.git/
+
+# Migrations (if using Alembic or Django)
+migrations/
+alembic/versions/
+
+# Testing
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache/
+.pytest_cache/
