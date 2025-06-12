@@ -202,8 +202,8 @@ You can test all endpoints using Postman.
 
 ## 📊 Swagger & ReDoc
 
-- 📘 **Swagger UI**: [https://fitness-booking-lockandopen.vercel.app/docs](https://fitness-booking-lockandopen.vercel.app/docs)
-- 📕 **ReDoc UI**: [https://fitness-booking-lockandopen.vercel.app/redoc](https://fitness-booking-lockandopen.vercel.app/redoc)
+- 📘 **Swagger UI**: [https://fitness-booking-lockandopen.vercel.app/docs](https://omnify-fastapi-1.onrender.com/docs)
+- 📕 **ReDoc UI**: [https://fitness-booking-lockandopen.vercel.app/redoc](https://omnify-fastapi-1.onrender.com/redoc)
 
 ---
 
@@ -228,6 +228,6 @@ Have an idea to improve this API?
 
 ---
 
-Made with 💪 by [Mohamed Asif](https://www.linkedin.com/in/mohamed-asif-a5856817b/)
+Made with 💪 by [Mohamed Asif](https://www.linkedin.com/in/mohamedasifscode/)
 
 
