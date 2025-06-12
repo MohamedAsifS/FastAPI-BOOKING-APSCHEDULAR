@@ -2,7 +2,7 @@
 
 The **Fitness Booking API** is a RESTful service that enables clients to view available fitness classes, book sessions, and track their booking history in real time. Built with **FastAPI**, this backend system is designed for a fictional fitness studio to manage its class schedules and user bookings.
 
-> 🌐 **Live Demo:** [https://fitness-booking-lockandopen.vercel.app](https://fitness-booking-lockandopen.vercel.app)
+> 🌐 **Live Demo:** [https://omnify-fastapi-1.onrender.com/docs](https://omnify-fastapi-1.onrender.com/docs)
 > 
 > 🎥 **Loom Video Walkthrough:** [Watch Here](https://www.loom.com/share/your-loom-video-id)
 
