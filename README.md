@@ -190,7 +190,7 @@ Currently, **no authentication** is required. In the future, `JWT` or `OAuth` ca
 
 You can test all endpoints using Postman.
 
-📁 **Download**: [`Fitness_Booking_Omnify.postman_collection.json`](./Fitness_Booking_Omnify.postman_collection.json)
+📁 **Download**: [`Fitness_Booking_Omnify.postman_collection.json`](https://github.com/MohamedAsifS/Postman_doc_omnify_fastapi)
 
 🛠️ **How to use**:
 
