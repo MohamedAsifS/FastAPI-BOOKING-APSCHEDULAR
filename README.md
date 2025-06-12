@@ -4,7 +4,7 @@ The **Fitness Booking API** is a RESTful service that enables clients to view av
 
 > 🌐 **Live Demo:** [https://omnify-fastapi-1.onrender.com/docs](https://omnify-fastapi-1.onrender.com/docs)
 > 
-> 🎥 **Loom Video Walkthrough:** [Watch Here](https://www.loom.com/share/your-loom-video-id)
+> 🎥 **Loom Video Walkthrough:** [Watch Here](https://www.loom.com/share/5cb6e3f97a4641a680ea63cd55ced56d?sid=1edacdc0-c094-4eee-aee7-dbfdcd771c97)
 
 ---
 
@@ -26,7 +26,7 @@ The **Fitness Booking API** is a RESTful service that enables clients to view av
 
 To start using the API:
 
-1. Make sure the API is running at [https://fitness-booking-lockandopen.vercel.app](https://fitness-booking-lockandopen.vercel.app).
+1. Make sure the API is running at [https://omnify-fastapi-1.onrender.com/docs](https://omnify-fastapi-1.onrender.com/docs).
 2. Use **Swagger**, **ReDoc**, or **Postman** to explore and test the API.
 3. No authentication is required for basic use.
 4. All endpoints are publicly available and respond in JSON.
