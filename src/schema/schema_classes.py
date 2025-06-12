@@ -8,6 +8,9 @@ class Fitness_Classes_schema(BaseModel):
     instructor:str 
     available_slots:int
     
+    
+    
+    
 
     
     
