@@ -1,4 +1,4 @@
-# Fitness Booking API - Omnify 
+# Fitness Booking API 
 
 The **Fitness Booking API** is a RESTful service that enables clients to view available fitness classes, book sessions, and track their booking history in real time. Built with **FastAPI**, this backend system is designed for a fictional fitness studio to manage its class schedules and user bookings.
 
